@@ -1,1 +1,1 @@
-# predictin-tags-on-stackoverflow-with-linear-models
+# predicting-tags-on-stackoverflow-with-linear-models
